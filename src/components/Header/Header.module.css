@@ -1,0 +1,16 @@
+.container{
+    background-color: beige;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+
+    
+
+}
+
+.links{
+    text-align: center;
+
+    
+    
+}
